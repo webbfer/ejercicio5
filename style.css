@@ -1,0 +1,35 @@
+h2,h3,h4 {
+    text-align: center;
+        /*agregamos sombras a los tectos ,h1,h2,h3*/
+        text-shadow: 0 1px 1px rgb(56, 140, 179) ;
+}
+h2  {font-size: 2em;
+    font-weight: normal;
+    letter-spacing: 0.01em;
+   text-transform: uppercase;
+}
+h3{font-size: 1.5em;
+    font-weight: normal;
+    letter-spacing: 0.01em;
+    margin: 0 0 1em;
+}
+h4{font-size: 1.5em;
+    font-weight: normal;
+    letter-spacing: 0.01em;
+    margin: 0 0 1em; }
+form{
+    margin: 0 auto;
+    width: 450px;
+    padding: 1em;
+    border: 1px rgb(40, 137, 148);
+    border-radius: 5em;
+    text-align: center;
+
+}
+body{
+    margin: 0 auto;
+    width: 450px;
+    padding: 1em;
+    text-align: center
+    ;
+}
